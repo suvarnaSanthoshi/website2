@@ -1,0 +1,58 @@
+body{
+background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);    }
+.main{
+text-align: center;
+font-size: 40px;
+}
+#heading{
+color: white;
+border:1px dotted; pink;
+font-size: 35px;
+}
+.box{
+height: 300px;
+}
+.image1{
+float: left;
+border:3px groove; pink;
+height: 250;
+width: 250;
+margin-left: 100px;
+margin-right: 10px;
+
+}
+.para1 , #ul1{
+padding-left: 400px;
+color: white;
+margin-right: 100px;
+font-size: 21px;
+}
+.para2 , .ul2{
+padding-right: 400px;
+color: white;
+margin-left: 100px;
+font-size: 21px;
+}
+.image2{
+float: right;
+border:3px groove; pink;
+height: 250;
+width: 250;
+margin-left: 10px;
+margin-right: 100px;
+}
+.image3{
+float: left;
+margin-top: 10px;
+margin-left: 100px;
+margin-right: 10px;
+margin-bottom: 10px;
+}
+.home{
+	position: fixed;
+	background-color: pink;
+	left: 1420px;
+	right: 10px;
+	top: 640px;
+	font-size: 20px;
+}

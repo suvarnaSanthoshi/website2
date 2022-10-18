@@ -1,0 +1,32 @@
+*{
+    font-family: cursive;
+
+}
+h2,h3{
+    margin-left: 30px;
+}
+body{
+    background-image: url('a4.jpg');
+    background-repeat: no-repeat;
+	background-size: cover;
+    color: white;
+    width: 50%;
+    margin: 20px 20px 50px;
+}
+h1::first-letter{
+    font-size: 90px;
+}
+h2::first-letter{
+    font-size: 40px;
+}
+h3::first-letter{
+    font-size: 30px;
+}
+.home{
+    position: fixed;
+    color: white;
+    background-color: white;
+    left: 50px;
+    top: 640px;
+    font-size: 20px;
+}

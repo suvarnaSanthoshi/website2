@@ -1,0 +1,36 @@
+*{
+	font-family: cursive;
+}
+body{
+background-image: linear-gradient(to right, #e4afcb 0%, #b8cbb8 0%, #b8cbb8 0%, #e2c58b 30%, #c2ce9c 64%, #7edbdc 100%);
+}
+img{
+	width: 75%;
+	height: 350px;
+	margin-left: 200px;
+	margin-top: 30px;
+	border: 2px groove green;
+}
+.para , ul{
+	color: green;
+	font-size: 25px;
+	margin-left: 100px ;
+	margin-right: 100px;
+}
+.para1{
+	color: green;
+	font-size: 28px;
+	text-decoration: underline;
+}
+.para1{
+	color: green;
+	font-size: 28px;
+}
+.home{
+	position: fixed;
+	background-color: lightgreen;
+	left: 1420px;
+	right: 10px;
+	top: 640px;
+	font-size: 20px;
+}
